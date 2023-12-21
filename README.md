@@ -126,6 +126,7 @@ In Home view, all the views button will be available. User will land on specific
 ## Info Page
 
 ## Finance View
+[https://github.com/Vishalsingh1307/Business-Insights-360/blob/main/Executive%20View.png]
 
 ## Sales View
 
